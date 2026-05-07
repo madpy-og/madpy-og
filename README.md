@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**madpy-og/madpy-og** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi, I'm Madda Athia Rahman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Enthusiast | Fullstack Web Developer 
+
+Hello my name is **Madda Athia Rahman**, I started my journey as a **graphic designer**, which gave me a strong foundation in design thinking and user experience. This background has been invaluable as I transition into web development, allowing me to appreciate both the aesthetic and technical sides of building digital products.
+ 
+Now, I'm fully committed to becoming a **full-stack developer**. I'm actively learning to build complete applications from beautiful, responsive frontends to robust, scalable backends. My design background gives me an edge in creating user centric solutions while I develop solid coding fundamentals.
+
+
+---
+
+
+### Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres&theme=dark" />
+  </a>
+</p>
+
+
+---
+
+
+<div align="center">
+
+**Presented by: Madda Athia Rahman**
+
+*Last updated: 2026*
+
+</div>
