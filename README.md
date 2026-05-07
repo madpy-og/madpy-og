@@ -4,7 +4,7 @@
 
 Tech Enthusiast | Fullstack Web Developer 
 
-Hello my name is **Madda Athia Rahman**, I started my journey as a **graphic designer**, which gave me a strong foundation in design thinking and user experience. This background has been invaluable as I transition into web development, allowing me to appreciate both the aesthetic and technical sides of building digital products.
+I started my journey as a **graphic designer**, which gave me a strong foundation in design thinking and user experience. This background has been invaluable as I transition into web development, allowing me to appreciate both the aesthetic and technical sides of building digital products.
  
 Now, I'm fully committed to becoming a **full-stack developer**. I'm actively learning to build complete applications from beautiful, responsive frontends to robust, scalable backends. My design background gives me an edge in creating user centric solutions while I develop solid coding fundamentals.
 
