@@ -16,7 +16,7 @@ Now, I'm fully committed to becoming a **full-stack developer**. I'm actively le
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,nodejs,express,nestjs,fastapi,mongodb,postgres,tailwind&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,nodejs,express,nestjs,mongodb,postgres,tailwind&theme=dark" />
   </a>
 </p>
 
